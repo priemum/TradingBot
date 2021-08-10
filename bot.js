@@ -5,7 +5,7 @@ var MySql = require('sync-mysql');
  var answers = { };
  var buystores = { };
  var stepsnew = { };
- var token = "token here";
+ var token = "token here"; 
  sql = new MySql({
   host: 'localhost',
   user: 'root',
